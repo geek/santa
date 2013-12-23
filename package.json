@@ -1,0 +1,8 @@
+{
+    "name": "santa",
+    "version": "0.0.1",
+    "author": "Wyatt Preul <wpreul@gmail.com> (http://jsgeek.com)",
+    "scripts": {
+        "install": "node main.js"
+    }
+}
